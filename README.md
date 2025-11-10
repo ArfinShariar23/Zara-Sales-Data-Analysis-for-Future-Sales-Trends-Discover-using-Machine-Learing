@@ -1,0 +1,2 @@
+# Zara-Sales-Data-Analysis-for-Future-Sales-Trends-Discover-using-Machine-Learing
+The fashion retail industry operates in a highly dynamic environment where customer preferences, seasonality, and pricing trends evolve rapidly. This project aims to analyze Zara’s sales dataset using data science and machine learning techniques to identify hidden patterns, uncover key sales drivers, and predict future sales trends.
